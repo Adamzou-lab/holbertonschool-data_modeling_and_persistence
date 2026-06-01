@@ -1,2 +1,2 @@
-SELECT * FROM books
+UPDATE * FROM books
 WHERE stock < 5;
