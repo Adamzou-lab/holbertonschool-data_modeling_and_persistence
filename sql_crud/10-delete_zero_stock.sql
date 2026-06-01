@@ -1,2 +1,2 @@
-SELECT * FROM books
+DELETE FROM books
 WHERE stock = 0;
