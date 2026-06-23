@@ -21,4 +21,4 @@ cat fichier.sql | mysql -u root -p nom_de_la_base
 
 ## Auteur
 
-Adam (Adamzou-lab), Holberton School.
+Adam (Adamzou-lab).
